@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubham7999](https://github.com/shubham7999)
 
+- 📝 I also write technical articles on [geeksforgeeks](geeksforgeeks)
+
 - 💬 Ask me about **Data structures , algorithms , frontend , backend , javascript**
 
 - 📫 How to reach me **shubhampokhriyal2018@gmail.com**
@@ -30,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham7999&show_icons=true&locale=en" alt="shubham7999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham7999&" alt="shubham7999" /></p>
+
